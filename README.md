@@ -1,5 +1,4 @@
-### EX NO : 02
-### DATE  :
+
 # <p align="center">Developing a Neural Network Classification Model</p>
 
 ## AIM :
@@ -33,9 +32,9 @@ Split the data to training and testing
 Train the data and then predict using Tensorflow
 
 ## PROGRAM :
-Developed By: **Virgil Jovita.A**
+Developed By: **Prasanth E**
 <br/>
-Register Number: **212221240062**
+Register Number: **212221233002**
 
 ```PY
 import pandas as pd
